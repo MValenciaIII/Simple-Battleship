@@ -1,0 +1,21 @@
+
+.tile {
+    background-color: gray;
+    height:  200px;
+    width: 200px;
+    border: black solid 2px;
+}
+
+.wholeGame {
+    width: 600px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
